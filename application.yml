@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: 01-MS-RestAPI-1
 cloud:
     compatibility-verifier:
       enabled: false  
